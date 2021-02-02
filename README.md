@@ -1,4 +1,4 @@
-# Repositório mqtt para porta da rack
+# Repositório MQTT (Monitoriamento de Racks)
 ---
 # Objetivo
 ---
