@@ -1,5 +1,3 @@
-# projeto-mqtt-carlosalexandre
-
 # Repositório mqtt para porta da rack
 ---
 # Objetivo
