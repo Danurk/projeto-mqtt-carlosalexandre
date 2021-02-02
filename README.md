@@ -9,7 +9,7 @@ O objetivo do projeto é fazer o monitoramento do estado de uma rack mesmo estan
 As seguintes bibliotecas foram utilizadas nesse projeto:
 * [UIPEtherne](https://github.com/UIPEthernet/UIPEthernet) - conexão do ENC28J60 com o Arduino.
 * [PubSubClient](https://github.com/knolleary/pubsubclient) - cliente MQTT para o Arduino.
-# Materias utilizados
+# Materiais utilizados
 ```
 Arduino UNO
 Módulo Ethernet (ENC28J60)
