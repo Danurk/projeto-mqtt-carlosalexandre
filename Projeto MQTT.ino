@@ -69,10 +69,7 @@ void loop() {
 
       //Publlica uma Mensagem no Servidor MQTT
       mensagem = mqttClient.publish("carlosalexandre-t1","ABERTO");
-      
-      //Espera meio segundo
-      delay(500);
-
+   
       //Se a rack estiver fechada esse script será utilizado
      } else{
 
@@ -81,10 +78,7 @@ void loop() {
 
       //Publica uma Mensagem no Servidor MQTT
       mensagem = mqttClient.publish("carlosalexandre-t1","FECHADO");
-      
-      // Espera meio segundo
-      delay(500);}
-     
+  
     mqttClient.loop();
     
 }
