@@ -26,7 +26,7 @@ void setup() {
     Serial.begin(9600);
 
     //Define o servidor para qual as informações serão enviadas
-    mqttClient.setServer("54.174.235.157",1883);
+    mqttClient.setServer("54.161.191.80",1883);
     
     //Exibe no Monitor Serial as informações sobre o IP do Arduino
     Serial.print("O IP do Arduino e: ");
